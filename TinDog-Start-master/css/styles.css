@@ -1,0 +1,132 @@
+#title{
+    background-color: #ff4c68;
+}
+#features{
+    margin: 150px 100px 190px;
+    background-color: #fff;
+   
+}
+#testimonials{
+    
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+}
+#pricing{
+    padding: 100px 100px 50px;
+    text-align: center;
+}
+#cta{
+    padding: 100px 100px;
+    background-color: #ff4c68;
+    text-align: center;
+    font-family: 'Montserrat-bold', sans-serif;
+}
+#footer{
+    padding: 50px 100px;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Montserrat-bold', sans-serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #fff;
+    padding-top: 80px;
+    margin-bottom: 30px;
+}
+h3{
+font-family: 'Montserrat-bold', sans-serif;
+font-size: 1.5rem;
+font-weight: bold;
+text-align: center;
+}
+h2{
+    font-family: 'Montserrat-bold', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.fa-check-circle{
+
+    margin-bottom: 1rem;
+    color: #ef8172;
+}
+.fa-bullseye{
+    margin-bottom: 1rem;
+    color: #ef8172;
+}
+.fa-heart{
+    margin-bottom: 1rem;
+    color: #ef8172;
+}
+.fas:hover{
+color: #ff4c68;
+}
+
+.container-fluid{
+padding: 3% 15%;
+}
+.navbar-brand{
+    font-size: 300%;
+}
+.nav-item{
+    font-size: x-large;
+    padding-left: 30px;
+}
+.phone-img{
+    width: 55%;
+    transform: rotate(25deg);
+    margin-left: 100px;
+    margin-top: 30px;
+   
+}
+.windows-btn{
+    margin-left:20px
+}
+.feature-para{
+    color: #8f8f8f;
+    text-align: center;
+}
+.feature-box{
+    text-align: center;
+}
+.dog-photo{
+    width: 10%;
+    border-radius: 50%;
+    padding-top: 20px;
+}
+.press-photo{
+    width: 15%;
+    margin: 0 20px 0;
+    padding-bottom: 5%;
+}
+.carousel-item{
+    padding: 100px 100px 190px;
+}
+.woman-image{
+    border-radius: 50%;
+    width: 10%;
+}
+.pricing{
+    padding-top: 3%;
+}
+.cta-text{
+    color: #fff;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    line-height: 1.5;
+    padding-bottom: 40px;
+}
+.social{
+    padding: 0 0 0 20px;
+}
+@media (max-width: 1028px){
+    #title{
+        text-align: center;
+    }
+}
